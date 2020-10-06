@@ -1,0 +1,81 @@
+group,subject_politics,headline_politics,true_votes,estimate,group_text
+control,Liberal participants,(H1) Unpolitical social influence,"No social
+rating shown",0.5,No social signal (control)
+control,Conservative participants,(H1) Unpolitical social influence,"No social
+rating shown",0.5,No social signal (control)
+maj-dem,Liberal participants,(H1) Unpolitical social influence,"Social rating
+confirms news",0.6,Majority-Democrat group
+maj-dem,Conservative participants,(H1) Unpolitical social influence,"Social rating
+confirms news",0.6,Majority-Democrat group
+maj-rep,Liberal participants,(H1) Unpolitical social influence,"Social rating
+confirms news",0.6,Majority-Republican group
+maj-rep,Conservative participants,(H1) Unpolitical social influence,"Social rating
+confirms news",0.6,Majority-Republican group
+maj-dem,Liberal participants,(H1) Unpolitical social influence,"Social rating
+refutes news",0.4,Majority-Democrat group
+maj-dem,Conservative participants,(H1) Unpolitical social influence,"Social rating
+refutes news",0.4,Majority-Democrat group
+maj-rep,Liberal participants,(H1) Unpolitical social influence,"Social rating
+refutes news",0.4,Majority-Republican group
+maj-rep,Conservative participants,(H1) Unpolitical social influence,"Social rating
+refutes news",0.4,Majority-Republican group
+control,Liberal participants,(H2) Out-group resistance,"No social
+rating shown",0.5,No social signal (control)
+control,Conservative participants,(H2) Out-group resistance,"No social
+rating shown",0.5,No social signal (control)
+maj-dem,Liberal participants,(H2) Out-group resistance,"Social rating
+confirms news",0.6,Majority-Democrat group
+maj-dem,Conservative participants,(H2) Out-group resistance,"Social rating
+confirms news",0.5,Majority-Democrat group
+maj-rep,Liberal participants,(H2) Out-group resistance,"Social rating
+confirms news",0.5,Majority-Republican group
+maj-rep,Conservative participants,(H2) Out-group resistance,"Social rating
+confirms news",0.6,Majority-Republican group
+maj-dem,Liberal participants,(H2) Out-group resistance,"Social rating
+refutes news",0.4,Majority-Democrat group
+maj-dem,Conservative participants,(H2) Out-group resistance,"Social rating
+refutes news",0.5,Majority-Democrat group
+maj-rep,Liberal participants,(H2) Out-group resistance,"Social rating
+refutes news",0.5,Majority-Republican group
+maj-rep,Conservative participants,(H2) Out-group resistance,"Social rating
+refutes news",0.4,Majority-Republican group
+control,Liberal participants,(H3) Selective attention,"No social
+rating shown",0.5,No social signal (control)
+control,Conservative participants,(H3) Selective attention,"No social
+rating shown",0.5,No social signal (control)
+maj-dem,Liberal participants,(H3) Selective attention,"Social rating
+confirms news",0.6,Majority-Democrat group
+maj-dem,Conservative participants,(H3) Selective attention,"Social rating
+confirms news",0.5,Majority-Democrat group
+maj-rep,Liberal participants,(H3) Selective attention,"Social rating
+confirms news",0.6,Majority-Republican group
+maj-rep,Conservative participants,(H3) Selective attention,"Social rating
+confirms news",0.49,Majority-Republican group
+maj-dem,Liberal participants,(H3) Selective attention,"Social rating
+refutes news",0.5,Majority-Democrat group
+maj-dem,Conservative participants,(H3) Selective attention,"Social rating
+refutes news",0.4,Majority-Democrat group
+maj-rep,Liberal participants,(H3) Selective attention,"Social rating
+refutes news",0.49,Majority-Republican group
+maj-rep,Conservative participants,(H3) Selective attention,"Social rating
+refutes news",0.4,Majority-Republican group
+control,Liberal participants,(H4) Signal informativeness,"No social
+rating shown",0.5,No social signal (control)
+control,Conservative participants,(H4) Signal informativeness,"No social
+rating shown",0.5,No social signal (control)
+maj-dem,Liberal participants,(H4) Signal informativeness,"Social rating
+confirms news",0.5,Majority-Democrat group
+maj-dem,Conservative participants,(H4) Signal informativeness,"Social rating
+confirms news",0.5,Majority-Democrat group
+maj-rep,Liberal participants,(H4) Signal informativeness,"Social rating
+confirms news",0.6,Majority-Republican group
+maj-rep,Conservative participants,(H4) Signal informativeness,"Social rating
+confirms news",0.6,Majority-Republican group
+maj-dem,Liberal participants,(H4) Signal informativeness,"Social rating
+refutes news",0.4,Majority-Democrat group
+maj-dem,Conservative participants,(H4) Signal informativeness,"Social rating
+refutes news",0.4,Majority-Democrat group
+maj-rep,Liberal participants,(H4) Signal informativeness,"Social rating
+refutes news",0.5,Majority-Republican group
+maj-rep,Conservative participants,(H4) Signal informativeness,"Social rating
+refutes news",0.5,Majority-Republican group
